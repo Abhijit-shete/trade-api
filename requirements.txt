@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+requests
+slowapi
+duckduckgo-search
+google-generativeai
+python-dotenv
